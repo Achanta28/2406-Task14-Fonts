@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Tiny5&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Timmana&display=swap');
+
+
+
+
+
+
+
+
+#mainHeading {
+    color: white;
+    background-color: tomato;
+    text-align: center;
+    border-radius: 50px;
+}
+
+
+div{
+    border: 2px solid red;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    height: 350px;
+    
+}
+
+.div1 {
+    border: 2px solid red;
+    background-color: blue;
+
+}
+.div2{
+    border: 2px dotted blue;
+    background-color: deeppink;
+
+}
+.div3{
+    border: 2px dashed gray;
+    background-color: blueviolet;
+
+}
+.div4{
+    border: 2px solid gold;
+    background-color: aqua;
+
+}
+
+.div5{
+    border: 2px groove red;
+    background-color: green;
+
+}
+
+.div6{
+    border: 2px ridge  grey;
+    background-color: blueviolet;
+
+}
+.div7{
+    border: 2px double  deeppink;
+    background-color: aqua;
+
+}
+.div8{
+    border: 2px dotted  red;
+    background-color: deepskyblue;
+
+}
+.div9{
+    border: 2px solid  grey;
+    background-color: gold;
+
+}
+.div10{
+    border: 2px ridge  blue;
+    background-color: brown;
+
+}
+.div11{
+    border: 2px double  deeppink;
+    background-color: blue;
+
+}
+
+.player1{
+    color: white;
+    background-color: green;
+    text-align: center;
+    border-radius: 50px;
+
+}
+.player2{
+    color: black;
+    background-color: tomato;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.player3{
+    color: white;
+    background-color: red;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.player4{
+    color: white;
+    background-color: deepskyblue;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.player5{
+    color: white;
+    background-color: tomato;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.player6{
+    color: white;
+    background-color: deeppink;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.player7{
+    color: black;
+    background-color: deepskyblue;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.player8{
+    color: white;
+    background-color: darkgoldenrod;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.player9{
+    color: white;
+    background-color: tomato;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.player10{
+    color: black;
+    background-color: deeppink;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.player11{
+    color: white;
+    background-color: yellowgreen;
+    text-align: center;
+    border-radius: 50px;
+    
+}
+.cricketPlayer {
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+    background-image: url(./images/MI.png);
+    background-color: blue;
+    background-repeat: no-repeat;
+    border: 3px groove deeppink; 
+    background-position: center;
+    background-attachment: scroll;
+    background-size:contain;
+    
+} 
+p{
+    display: inline-block;
+    text-align: justify;
+    width: 400px;
+    height: 350px;
+    overflow: scroll;
+    background-image: url(./images/MI.png);
+    background-repeat: no-repeat;
+    border: 3px groove deeppink; 
+    background-position: center;
+    margin: 20px;
+}
+
+.para1 {
+    color: black;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.para2{
+    color: white;
+    background-color: black;
+    font-family: "Cedarville Cursive", cursive;
+
+}
+.para3{
+    color: white;
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.para4{
+    color: white;
+    background-color:  deepskyblue;
+    font-family: "Lilita One", sans-serif;
+    
+}
+.para5{
+        color: black;
+    background-color: blue;
+    font-family:   font-family: "Tiny5", sans-serif;;
+    
+}
+.para6{
+    color: white;
+    background-color: orangered;
+    font-family: monospace;
+    
+}
+.para7{
+    color: black;
+    background-color: blue;
+    font-family: "Timmana", sans-serif;
+    
+}
+.para8{
+    color: white;
+    background-color: rebeccapurple;
+    font-family: fantasy;
+}
+.para9{
+    color: white;
+    background-color: darkolivegreen;
+    font-family: monospace;
+    
+}
+.para10{
+    color: white;
+    background-color: orangered;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.para11{
+    color: white;
+    background-color: green;
+    font-family: serif;
+    
+}
